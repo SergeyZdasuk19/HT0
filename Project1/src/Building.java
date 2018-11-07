@@ -63,7 +63,6 @@ public class Building {
             System.out.println("Мебель: ");
             rooms.get(i).describeFurniture();
             System.out.println("=========================");
-            System.out.println("h");
         }
 
     }
