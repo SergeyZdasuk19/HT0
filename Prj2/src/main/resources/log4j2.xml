@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="Console">
+            <PatternLayout>
+                <Pattern>%d %p %c{2} [%t] %m%n</Pattern>
+            </PatternLayout>
+        </Console>
+        <File name="File" fileName="target/logs/file1.log" >
+            <PatternLayout>
+                <Pattern>%d %p %c{2} [%t] %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <loggers>
+        <Root level="Trace">
+            <Appender-ref ref="File"/>
+        </Root>
+    </loggers>
+</Configuration>
