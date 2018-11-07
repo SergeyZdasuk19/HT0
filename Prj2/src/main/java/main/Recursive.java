@@ -1,4 +1,4 @@
-package parser;
+package main;
 
 import Exceptions.WrongInputException;
 import com.mpatric.mp3agic.InvalidDataException;
@@ -6,14 +6,13 @@ import com.mpatric.mp3agic.UnsupportedTagException;
 import music.Track;
 import org.apache.tika.exception.TikaException;
 import org.xml.sax.SAXException;
+import parser.AudioParserAndDescribe;
+import filter.FileNameFilterExample;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
-import java.util.logging.LogManager;
-import java.util.logging.Logger;
 
 public class Recursive {
     private FileNameFilterExample filterExample;
