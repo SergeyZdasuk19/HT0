@@ -1,0 +1,10 @@
+2018-11-07 23:13:18,246 INFO parser.AudioParserAndDescribe [main] Dublicate file with control sum D:\Папка1\треки\imagine-dragons-yesterday_(pesnimp3.ru) - копия.mp3
+2018-11-07 23:13:18,299 INFO parser.AudioParserAndDescribe [main] Dublicate file with control sum D:\Папка1\треки\imagine-dragons-yesterday_(pesnimp3.ru).mp3
+2018-11-07 23:13:18,457 INFO parser.AudioParserAndDescribe [main] 
+
+2018-11-07 23:13:18,457 INFO parser.AudioParserAndDescribe [main] Imagine Dragons, Evolve, Yesterday
+2018-11-07 23:13:18,458 INFO parser.AudioParserAndDescribe [main] Dublicate file without control sum D:\Папка1\треки\imagine-dragons-yesterday_(pesnimp3.ru) - копия.mp3
+2018-11-07 23:13:18,458 INFO parser.AudioParserAndDescribe [main] Dublicate file without control sum D:\Папка1\треки\imagine-dragons-yesterday_(pesnimp3.ru).mp3
+2018-11-07 23:13:18,458 INFO parser.AudioParserAndDescribe [main] 
+
+2018-11-07 23:13:18,458 INFO parser.AudioParserAndDescribe [main] __________________________________________________________________________
